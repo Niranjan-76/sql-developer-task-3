@@ -40,11 +40,5 @@ sql-developer-task/
 ├── README.md            # This file
 ```
 
-## ⚡ How to Run
-1. Open MySQL Workbench or DB Browser for SQLite.
-2. Run the entire SQL script from `SELECT_queries.sql`.
-3. Verify outputs for each query.
 
-## 📷 Screenshots (Optional)
-- Add screenshots of query results if required for submission.
 
