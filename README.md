@@ -48,10 +48,3 @@ sql-developer-task/
 ## 📷 Screenshots (Optional)
 - Add screenshots of query results if required for submission.
 
-## 🔗 Submission
-- Push this code to your GitHub repository.
-- Submit the GitHub repo link using the provided Google Form.
-
----
-
-**✔ Self-practice encouraged. Feel free to modify or add more queries to improve learning.**
